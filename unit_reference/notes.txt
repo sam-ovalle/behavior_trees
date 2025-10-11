@@ -1,0 +1,13 @@
+-----------------------------
+exercise 1: building a BT exe
+-----------------------------
+
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP
+mkdir build && cd build
+cmake ..
+make
+
+source ~/ros2_ws/install/setup.bash
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP/build/course_bt
+./bt_u2_ex1
+
