@@ -1,0 +1,49 @@
+-----------------------------
+exercise 1: building a BT exe
+-----------------------------
+
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP
+mkdir build && cd build
+cmake ..
+make
+
+source ~/ros2_ws/install/setup.bash
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP/build/course_bt
+./bt_u2_ex1
+
+----------------------
+Compiling source files
+----------------------
+
+cd ~/ros2_ws
+colcon build --packages-select behaviortree_cpp_v3
+colcon build --packages-select behaviortree_ros2
+source ~/ros2_ws/install/setup.bash
+
+--------------------
+Build Behavior Trees
+--------------------
+
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP/build
+cmake ..
+make
+
+----------------------
+Run Relevant Simulator
+----------------------
+
+source /home/simulations/ros2_sims_ws/install/setup.bash
+ros2 launch my_package launch_world_unit2.launch.py
+
+
+----------------------
+Running Behavior Trees
+----------------------
+
+source ~/ros2_ws/install/setup.bash
+cd ~/ros2_ws/src/bt_course_files/BehaviorTree.CPP/build/course_bt
+./bt_u2_ex1
+
+cd ~/ros2_ws/build/behaviortree_ros2
+./test_unit2
+
