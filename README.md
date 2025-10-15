@@ -10,4 +10,4 @@ An introductory Behavior Trees exercise of logic to navigate open areas using la
 ## Unit 2: create & compile BTs
 Exploring Sequential, Fallback, and Auxillary nodes
 ![Alt text](readme/u2-bt.png "Behavior tree of logic implemented in demo")
-![Alt text](readme/ut-demo.gif "Behavior tree above running in simulation")
+![Alt text](readme/u2-demo.gif "Behavior tree above running in simulation")
