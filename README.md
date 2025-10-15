@@ -11,3 +11,9 @@ An introductory Behavior Trees exercise of logic to navigate open areas using la
 Exploring Sequential, Fallback, and Auxillary nodes
 ![Alt text](readme/u2-bt.png "Behavior tree of logic implemented in demo")
 ![Alt text](readme/u2-demo.gif "Behavior tree above running in simulation")
+
+
+## Unit 3: Design Principles
+Understanding BT Hierarchy, Reactive Actions, Backboards, Subtrees, Decorators, and Logs
+![Alt text](readme/u3-bt.png "Behavior tree of logic implemented in demo")
+![Alt text](readme/u3-demo.gif "Behavior tree above running in simulation")
