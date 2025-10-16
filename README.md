@@ -25,4 +25,11 @@ Understanding tick callback, BehaviorTreeFactory, Inheritance, Halting, Passing 
 
 ## Unit 5: Stochastic Behavior Trees
 Understanding probabilistic analysis of BTs ability to succeed, Markov Chains
+
 Theoretical Discussion, not implemented into simulation
+
+## Unit 6: Final Project
+Implementing concepts together to navigate two part maze
+![Alt text](readme/final_project_world.png "Simulation world for final project")
+![Alt text](readme/final_project_bt.png "Behavior tree of logic implemented in final project")
+![Alt text](readme/final_project_demo.gif "Behavior tree above running in simulation")
