@@ -17,3 +17,8 @@ Exploring Sequential, Fallback, and Auxillary nodes
 Understanding BT Hierarchy, Reactive Actions, Backboards, Subtrees, Decorators, and Logs
 ![Alt text](readme/u3-bt.png "Behavior tree of logic implemented in demo")
 ![Alt text](readme/u3-demo.gif "Behavior tree above running in simulation")
+
+## Unit 4: Integrating BTs with ROS2
+Understanding tick callback, BehaviorTreeFactory, Inheritance, Halting, Passing Arguments
+![Alt text](readme/u4-bt.png "Behavior tree of logic implemented in demo")
+![Alt text](readme/u4-demo.gif "Behavior tree above running in simulation")
