@@ -22,3 +22,7 @@ Understanding BT Hierarchy, Reactive Actions, Backboards, Subtrees, Decorators, 
 Understanding tick callback, BehaviorTreeFactory, Inheritance, Halting, Passing Arguments
 ![Alt text](readme/u4-bt.png "Behavior tree of logic implemented in demo")
 ![Alt text](readme/u4-demo.gif "Behavior tree above running in simulation")
+
+## Unit 5: Stochastic Behavior Trees
+Understanding probabilistic analysis of BTs ability to succeed, Markov Chains
+Theoretical Discussion, not implemented into simulation

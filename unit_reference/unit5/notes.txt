@@ -1,0 +1,11 @@
+-------------------------------
+Running Behavior Trees exercise
+-------------------------------
+
+source /home/simulations/ros2_sims_ws/install/setup.bash
+ros2 launch my_package launch_world_unit5.launch.py
+
+cd ~/ros2_ws/build/behaviortree_ros2
+./test_unit5
+
+(see unit2 notes for rebuild)
